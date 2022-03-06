@@ -1,7 +1,10 @@
 # Broken Pieces
 
 > Oh no! I broke this framed image. Unless you can magically put it together, I’m in big trouble.
+> 
 > Flag format: CTF{...}
+> 
+> [Downloads files](https://ectf.nitk.ac.in/files/cb36928aaadb29749b7c835bd0e2fa21/pieces.zip)
 
 The task is to concatenate the images together. The way that the images are numbered suggest there are 20 rows and columns.
 
